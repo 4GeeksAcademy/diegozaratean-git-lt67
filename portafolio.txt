@@ -3,3 +3,5 @@ las tecnologias que uso son:
 html
 css
 js
+python
+react
